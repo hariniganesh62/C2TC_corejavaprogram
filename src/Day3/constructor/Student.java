@@ -1,4 +1,4 @@
-package Day3;
+package Day3.constructor;
 
 public class Student{
 	    private String studentname;

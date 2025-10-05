@@ -1,4 +1,4 @@
-package Day3;
+package Day3.Scanner;
 
 public class Person {
 	private String name;
