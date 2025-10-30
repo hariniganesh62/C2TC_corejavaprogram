@@ -4,12 +4,12 @@ public class ArrayOperation {
 int intArray[] ;
 	
 	public void ArrayOperations() {
-		super();
+	
 		
 	}
 
 	public void ArrayOperations(int[] intArray) {
-		super();
+	
 		this.intArray = intArray;
 		
 	}
